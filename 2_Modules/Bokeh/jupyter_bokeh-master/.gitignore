@@ -1,0 +1,7 @@
+/lib/
+/dist/
+/node_modules/
+/build/
+/*.egg-info/
+/*.tgz
+.ipynb_checkpoints/
